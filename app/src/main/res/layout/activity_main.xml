@@ -94,7 +94,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:textSize="10sp"
+                android:textSize="9sp"
                 android:background="@null"
                 android:textColor="@color/green2"
                 android:layout_marginLeft="3sp"
@@ -106,7 +106,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:textSize="10sp"
+                android:textSize="9sp"
                 android:background="@null"
                 android:textColor="@color/green2"
                 android:layout_marginLeft="3sp"
@@ -121,10 +121,10 @@
                 android:layout_marginRight="3sp"
                 android:layout_weight="1"
                 android:background="@null"
-                android:text="tan -1"
+                android:text="tan-1"
                 android:textColor="@color/green2"
                 android:backgroundTint="@color/white2"
-                android:textSize="10sp" />
+                android:textSize="9sp" />
 
             <Button
                 android:layout_width="0dp"
@@ -160,7 +160,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:textSize="17sp"
+                android:textSize="14sp"
                 android:background="@null"
                 android:textColor="@color/green2"
                 android:layout_marginLeft="3sp"
@@ -171,14 +171,14 @@
             <Button
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:textSize="17sp"
-                android:background="@null"
-                android:textColor="@color/green2"
                 android:layout_marginLeft="3sp"
                 android:layout_marginRight="3sp"
+                android:layout_weight="1"
+                android:background="@null"
                 android:backgroundTint="@color/white2"
-                android:text="x^3"/>
+                android:text="x^3"
+                android:textColor="@color/green2"
+                android:textSize="14sp" />
 
             <Button
                 android:layout_width="0dp"
@@ -190,7 +190,7 @@
                 android:text="x^2"
                 android:textColor="@color/green2"
                 android:backgroundTint="@color/white2"
-                android:textSize="17sp" />
+                android:textSize="14sp" />
 
             <Button
                 android:layout_width="0dp"
@@ -202,13 +202,13 @@
                 android:text="e^x"
                 android:textColor="@color/green2"
                 android:backgroundTint="@color/white2"
-                android:textSize="17sp" />
+                android:textSize="15sp" />
 
             <Button
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:textSize="12sp"
+                android:textSize="11sp"
                 android:background="@null"
                 android:textColor="@color/green2"
                 android:layout_marginLeft="3sp"
@@ -226,7 +226,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:textSize="16sp"
+                android:textSize="13sp"
                 android:background="@null"
                 android:textColor="@color/green2"
                 android:layout_marginLeft="3sp"
@@ -238,7 +238,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:textSize="15sp"
+                android:textSize="13sp"
                 android:background="@null"
                 android:textColor="@color/green2"
                 android:layout_marginLeft="3sp"
@@ -274,7 +274,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:textSize="17sp"
+                android:textSize="15sp"
                 android:background="@null"
                 android:textColor="@color/green2"
                 android:layout_marginLeft="3sp"
@@ -319,10 +319,10 @@
                 android:layout_marginRight="3sp"
                 android:layout_weight="1"
                 android:background="@null"
+                android:backgroundTint="@color/white2"
                 android:text="1/x"
                 android:textColor="@color/green2"
-                android:backgroundTint="@color/white2"
-                android:textSize="17sp" />
+                android:textSize="15sp" />
 
             <Button
                 android:layout_width="0dp"
@@ -406,7 +406,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:textSize="11sp"
+                android:textSize="9sp"
                 android:background="@null"
                 android:textColor="@color/green2"
                 android:layout_marginLeft="3sp"
@@ -475,10 +475,10 @@
                 android:layout_marginRight="3sp"
                 android:layout_weight="1"
                 android:background="@null"
+                android:backgroundTint="@color/white2"
                 android:text="Ans"
                 android:textColor="@color/green2"
-                android:backgroundTint="@color/white2"
-                android:textSize="15sp" />
+                android:textSize="12sp" />
 
         </LinearLayout>
         <LinearLayout
@@ -538,7 +538,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:textSize="18sp"
+                android:textSize="15sp"
                 android:background="@null"
                 android:textColor="@color/green2"
                 android:layout_marginLeft="3sp"
@@ -586,7 +586,7 @@
                 android:text="EXP"
                 android:textColor="@color/green2"
                 android:backgroundTint="@color/white2"
-                android:textSize="14sp" />
+                android:textSize="12sp" />
 
             <Button
                 android:layout_width="0dp"
@@ -604,7 +604,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:textSize="20sp"
+                android:textSize="17sp"
                 android:background="@null"
                 android:textColor="@color/green2"
                 android:layout_marginLeft="3sp"
@@ -634,7 +634,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:textSize="13sp"
+                android:textSize="10sp"
                 android:background="@null"
                 android:textColor="@color/green2"
                 android:layout_marginLeft="3sp"
@@ -652,7 +652,7 @@
                 android:text="AC"
                 android:textColor="@color/green3"
                 android:backgroundTint="@color/teal"
-                android:textSize="17sp" />
+                android:textSize="15sp" />
 
             <Button
                 android:layout_width="0dp"
@@ -676,7 +676,7 @@
                 android:text="MR"
                 android:textColor="@color/green2"
                 android:backgroundTint="@color/white2"
-                android:textSize="17sp" />
+                android:textSize="15sp" />
 
         </LinearLayout>
 
